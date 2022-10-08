@@ -4,11 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8259e09e-2841-432a-850d-124c193ce314" name="Changes" comment="piojpok" />
+    <list default="true" id="8259e09e-2841-432a-850d-124c193ce314" name="Changes" comment="piojpok">
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GAMBAR9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,18 +83,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Latihan/TFLite/tflite_train_dataset/images",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Latihan/TFLite/tflite_train_dataset/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Latihan\TFLite\tflite_train_dataset\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="train_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tflite_train_dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_dataset" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
