@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8259e09e-2841-432a-850d-124c193ce314" name="Changes" comment="piojpok">
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GAMBAR9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8259e09e-2841-432a-850d-124c193ce314" name="Changes" comment="piojpok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
