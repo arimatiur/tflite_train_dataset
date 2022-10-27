@@ -1,0 +1,17 @@
+
+
+path: ../train_dataset  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: ITS
+  1: ITB
+  2: UI
+  3: UNPAD
+  4: IPB
+  5: UNAIR
+  6: UB
+  7: UGM
+  8: UNDIP
